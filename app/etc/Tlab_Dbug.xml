@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Tlab_Dbug>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Tlab_Dbug>
+    </modules>
+</config>

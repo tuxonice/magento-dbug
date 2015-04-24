@@ -1,0 +1,14 @@
+<config>
+    <modules>
+        <Tlab_Dbug>
+            <version>0.1.0</version>
+        </Tlab_Dbug>
+    </modules>
+    <global>
+        <helpers>
+            <dbug>
+                <class>Tlab_Dbug_Helper</class>
+            </dbug>
+        </helpers>
+    </global>
+</config>
